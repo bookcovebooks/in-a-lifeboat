@@ -7,14 +7,14 @@
 .de h1 { margin-bottom: 0.2em; font-weight: normal; text-align: center; font-size: 1.25em; margin-top: 1em;}
 .de .caption { font-size:0.9em; }
 
-.il 90% t
+.il 90%
 f=image1.jpg
 a=two men and a woman on a lifeboat
 c=“I’m parched,” growled Trasker.~~~~“I’m in agony!”~~~~“I’m suffering as much as you are,” said Farrant. “And as for her--”~~~~“Ah, her! You’re sweet on her, that’s wot! You’d do anything for--her!”
 .il-
 
 .li t
-                             LIFEBOAT
+                               LIFEBOAT
 
                           By Jeffery Farnol
                      who wrote “The Broad Highway”
