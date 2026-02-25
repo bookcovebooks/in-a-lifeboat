@@ -329,5 +329,5 @@ of _Hearst’s International combined with Cosmopolitan_ magazine.]
 .li-
 .li h
 <div class="tn">Transcriber’s note: This story appeared in the
-September, 1930 issue of of <i>Hearst’s International combined with Cosmopolitan</i> magazine.</div>
+September, 1930 issue of <i>Hearst’s International combined with Cosmopolitan</i> magazine.</div>
 .li-
